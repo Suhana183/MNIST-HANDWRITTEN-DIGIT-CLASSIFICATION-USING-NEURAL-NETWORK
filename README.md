@@ -153,4 +153,6 @@ B.Tech – Computer Science (AI & ML)
 ---
 
 ⭐ If you find this project useful, consider giving it a star!
-
+<a href="./Deep%20learning%20report.pdf">
+  <img src="https://img.shields.io/badge/View%20Report-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+</a>
